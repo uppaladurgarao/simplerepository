@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="com.ranford.RABP.testsuites.BP_TS9_validateBranchesEntryCancle">
+        <methods>
+          <include name="preCondition"/>
+          <include name="testdata"/>
+        </methods>
+      </class> <!-- com.ranford.RABP.testsuites.BP_TS9_validateBranchesEntryCancle -->
+      <class name="com.ranford.RABP.testsuites.BP_TS2_ValidateNewBranches">
+        <methods>
+          <include name="preCondition"/>
+          <include name="testCase"/>
+        </methods>
+      </class> <!-- com.ranford.RABP.testsuites.BP_TS2_ValidateNewBranches -->
+      <class name="com.ranford.RABP.testsuites.BP_TS4_ValidateBranchesLogOut">
+        <methods>
+          <include name="testcase"/>
+          <include name="preCondition"/>
+        </methods>
+      </class> <!-- com.ranford.RABP.testsuites.BP_TS4_ValidateBranchesLogOut -->
+      <class name="com.ranford.RABP.testsuites.BP_TS7_validateBranchesEntrySubmit">
+        <methods>
+          <include name="preCondition"/>
+          <include name="testdata"/>
+        </methods>
+      </class> <!-- com.ranford.RABP.testsuites.BP_TS7_validateBranchesEntrySubmit -->
+      <class name="com.ranford.RABP.testsuites.BP_TS1_ValidateBranches">
+        <methods>
+          <include name="testCase"/>
+          <include name="preCondition"/>
+        </methods>
+      </class> <!-- com.ranford.RABP.testsuites.BP_TS1_ValidateBranches -->
+      <class name="com.ranford.RABP.testsuites.BP_TS6_validateBrancheDetailsClear">
+        <methods>
+          <include name="preCondition"/>
+          <include name="testdata"/>
+        </methods>
+      </class> <!-- com.ranford.RABP.testsuites.BP_TS6_validateBrancheDetailsClear -->
+      <class name="com.ranford.RABP.testsuites.BP_TS8_validateBranchesEntryReset">
+        <methods>
+          <include name="preCondition"/>
+          <include name="testdata"/>
+        </methods>
+      </class> <!-- com.ranford.RABP.testsuites.BP_TS8_validateBranchesEntryReset -->
+      <class name="com.ranford.RABP.testsuites.BP_TS5_ValidateBrancheDetails">
+        <methods>
+          <include name="preCondition"/>
+          <include name="testdata"/>
+        </methods>
+      </class> <!-- com.ranford.RABP.testsuites.BP_TS5_ValidateBrancheDetails -->
+      <class name="com.ranford.RABP.testsuites.BP_TS11_validateNewBranchesLogOut">
+        <methods>
+          <include name="preCondition"/>
+          <include name="testdata"/>
+        </methods>
+      </class> <!-- com.ranford.RABP.testsuites.BP_TS11_validateNewBranchesLogOut -->
+      <class name="com.ranford.RABP.testsuites.BP_TS10_validateNewBranchesHome">
+        <methods>
+          <include name="testdata"/>
+          <include name="preCondition"/>
+        </methods>
+      </class> <!-- com.ranford.RABP.testsuites.BP_TS10_validateNewBranchesHome -->
+      <class name="com.ranford.RABP.testsuites.BP_TS3_ValidateBranchesHome">
+        <methods>
+          <include name="testcase"/>
+          <include name="preCondition"/>
+        </methods>
+      </class> <!-- com.ranford.RABP.testsuites.BP_TS3_ValidateBranchesHome -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

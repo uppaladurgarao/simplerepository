@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <classes>
+      <class name="com.ranford.RABP.testsuites.BP_TS2_ValidateNewBranches"/>
+      <class name="com.ranford.RABP.testsuites.BP_TS6_validateBrancheDetailsClear"/>
+      <class name="com.ranford.RABP.testsuites.BP_TS3_ValidateBranchesHome"/>
+      <class name="com.ranford.RABP.testsuites.BP_TS1_ValidateBranches"/>
+      <class name="com.ranford.RABP.testsuites.BP_TS7_validateBranchesEntrySubmit"/>
+      <class name="com.ranford.RABP.testsuites.BP_TS11_validateNewBranchesLogOut"/>
+      <class name="com.ranford.RABP.testsuites.BP_TS8_validateBranchesEntryReset"/>
+      <class name="com.ranford.RABP.testsuites.BP_TS9_validateBranchesEntryCancle"/>
+      <class name="com.ranford.RABP.testsuites.BP_TS4_ValidateBranchesLogOut"/>
+      <class name="com.ranford.RABP.testsuites.BP_TS10_validateNewBranchesHome"/>
+      <class name="com.ranford.RABP.testsuites.BP_TS5_ValidateBrancheDetails"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

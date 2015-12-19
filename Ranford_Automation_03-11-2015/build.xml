@@ -1,0 +1,37 @@
+<project name="Ranford_Automation_03-11-2015" basedir="."  default="run">
+	
+	<property name="workspace" value="D:\sindhu1\Ranford_Automation_03-11-2015" />
+	<property name="src" value="${workspace}/src" />
+	<property name="bin"  value="${workspace}/build" />
+	<property name="jars"  value="${workspace}/lib" />
+	
+	
+	<!-- setting the jars-->
+	<target name="set.jars"  unless="set.classpath" >
+	
+		<path id="jarsref">
+			<fileset dir="${jars}" includes="*.jar" />
+		</path>
+		
+	<pathconvert property="set.classpath" refid="jarsref"></pathconvert>	
+	
+	</target>
+	
+	<!-- create testng atribute-->
+	<target name="testngsetUp" depends="set.jars">
+ 	   <taskdef name="testng" classpath="${jars}/testng-6.9.6.jar" classname="org.testng.TestNGAntTask"></taskdef>
+	</target>
+	
+	<!-- compile testng classes-->
+	<target name="compile"  depends="testngsetUp">
+	    <javac srcdir="${src}" destdir="${bin}" classpath="${set.classpath}"></javac>
+	</target>
+	
+	<!-- run the testng xml file-->
+   <target name="run" depends="compile" >
+     <testng classpath="${set.classpath}:${bin}">
+       <xmlfileset dir="${workspace}" includes="runSuite.xml" />
+     </testng>
+   </target>
+	
+</project>

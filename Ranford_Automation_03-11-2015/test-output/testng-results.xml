@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login successful]]>
+    </line>
+    <line>
+      <![CDATA[verifed welcome to admin]]>
+    </line>
+    <line>
+      <![CDATA[branches home page opend successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Text is verified]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Entry is verified]]>
+    </line>
+    <line>
+      <![CDATA[close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login successful]]>
+    </line>
+    <line>
+      <![CDATA[verifed welcome to admin]]>
+    </line>
+    <line>
+      <![CDATA[branches home page opend successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Text is verified]]>
+    </line>
+    <line>
+      <![CDATA[close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login successful]]>
+    </line>
+    <line>
+      <![CDATA[verifed welcome to admin]]>
+    </line>
+    <line>
+      <![CDATA[branches home page opend successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Text is verified]]>
+    </line>
+    <line>
+      <![CDATA[Admin home page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Welcome to Admin is verified]]>
+    </line>
+    <line>
+      <![CDATA[close the browser]]>
+    </line>
+    <line>
+      <![CDATA[browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login successful]]>
+    </line>
+    <line>
+      <![CDATA[verifed welcome to admin]]>
+    </line>
+    <line>
+      <![CDATA[branches home page opend successfully]]>
+    </line>
+    <line>
+      <![CDATA[verifed New Branch]]>
+    </line>
+    <line>
+      <![CDATA[close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login successful]]>
+    </line>
+    <line>
+      <![CDATA[verifed welcome to admin]]>
+    </line>
+    <line>
+      <![CDATA[branches home page opend successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Text is verified]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Entry is verified]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Alert text is present]]>
+    </line>
+    <line>
+      <![CDATA[Branch name already Exist]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Entry is verified]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Alert text is present]]>
+    </line>
+    <line>
+      <![CDATA[Branch name already Exist]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Entry is verified]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Alert text is present]]>
+    </line>
+    <line>
+      <![CDATA[Branch name already Exist]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Entry is verified]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Alert text is present]]>
+    </line>
+    <line>
+      <![CDATA[Branch name already Exist]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Entry is verified]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Alert text is present]]>
+    </line>
+    <line>
+      <![CDATA[Branch name already Exist]]>
+    </line>
+    <line>
+      <![CDATA[close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login successful]]>
+    </line>
+    <line>
+      <![CDATA[verifed welcome to admin]]>
+    </line>
+    <line>
+      <![CDATA[branches home page opend successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Text is verified]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Entry is verified]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Branch Name textbox is empty]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Branch Name textbox is empty]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Branch Name textbox is empty]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Branch Name textbox is empty]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Branch Name textbox is empty]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login successful]]>
+    </line>
+    <line>
+      <![CDATA[verifed welcome to admin]]>
+    </line>
+    <line>
+      <![CDATA[branches home page opend successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Text is verified]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Entry is verified]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Entry is verified]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Entry is verified]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Entry is verified]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Entry is verified]]>
+    </line>
+    <line>
+      <![CDATA[branch Details entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login successful]]>
+    </line>
+    <line>
+      <![CDATA[verifed welcome to admin]]>
+    </line>
+    <line>
+      <![CDATA[branches home page opend successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Text is verified]]>
+    </line>
+    <line>
+      <![CDATA[log out successful]]>
+    </line>
+    <line>
+      <![CDATA[Banker Login text is verified]]>
+    </line>
+    <line>
+      <![CDATA[close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Admin login successful]]>
+    </line>
+    <line>
+      <![CDATA[Welcome to Admin verified]]>
+    </line>
+    <line>
+      <![CDATA[Branches home page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch is verified]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Entry is verified]]>
+    </line>
+    <line>
+      <![CDATA[Admin home page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Welcome to Admin is verified]]>
+    </line>
+    <line>
+      <![CDATA[close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login successful]]>
+    </line>
+    <line>
+      <![CDATA[verifed welcome to admin]]>
+    </line>
+    <line>
+      <![CDATA[branches home page opend successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Branch Text is verified]]>
+    </line>
+    <line>
+      <![CDATA[close the browser]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="179149" started-at="2015-11-20T06:11:44Z" finished-at="2015-11-20T06:14:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="179149" started-at="2015-11-20T06:11:44Z" finished-at="2015-11-20T06:14:43Z">
+      <class name="com.ranford.mastertestcase.MasterTestCaseTest">
+        <test-method status="PASS" signature="TestCase()[pri:0, instance:com.ranford.mastertestcase.MasterTestCaseTest@69cfe0]" name="TestCase" duration-ms="179149" started-at="2015-11-20T11:41:44Z" finished-at="2015-11-20T11:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase -->
+      </class> <!-- com.ranford.mastertestcase.MasterTestCaseTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
