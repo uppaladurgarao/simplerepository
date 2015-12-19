@@ -7,4 +7,5 @@ public class Config {
 	public static String sURL2 = "http://srssprojects.in/home.aspx";
 	//Browser
 	public static String sBrowser = "Firefox";
+	public static String sBrowser1 = "Chrome";
 }
